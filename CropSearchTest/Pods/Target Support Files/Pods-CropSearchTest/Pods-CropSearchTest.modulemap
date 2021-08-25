@@ -1,0 +1,6 @@
+framework module Pods_CropSearchTest {
+  umbrella header "Pods-CropSearchTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
